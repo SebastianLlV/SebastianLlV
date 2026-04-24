@@ -7,9 +7,9 @@
 
 ---
 
-<table>
-<tr>
-<td width="65%">
+<table style="border: none; border-collapse: collapse;">
+<tr style="border: none;">
+<td width="60%" style="border: none; vertical-align: top;">
 
 ### 🧠 About Me
 
@@ -35,7 +35,7 @@
 
 </td>
 
-<td width="35%" align="center">
+<td width="40%" align="center" style="border: none; vertical-align: top;">
 
 <img src="https://giffiles.alphacoders.com/216/216593.gif" width="100%" />
 
