@@ -8,7 +8,7 @@
 
 <p align="center">
   💻 Systems Engineering student focused on Software Engineering <br>
-  🚀 Front-End Developer focused on clean UX • Exploring DevOps, AI & Full Stack
+  🚀 Front-End Developer crafting clean UX • Exploring DevOps, AI & Full Stack
 </p>
 
 ---
