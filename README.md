@@ -5,7 +5,7 @@
   🚀 Front-End Developer crafting clean & eye-catching experiences
 </p>
 
-<img align="right" width="180" src="https://giffiles.alphacoders.com/216/216593.gif"/>
+<img align="right" src="https://giffiles.alphacoders.com/216/216593.gif" width="220" style="margin-top: 25px;"/>
 
 ---
 
