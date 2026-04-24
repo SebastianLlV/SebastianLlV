@@ -5,11 +5,11 @@
   🚀 Front-End Developer crafting clean & eye-catching experiences
 </p>
 
-<p align="center">
-  <img src="https://giffiles.alphacoders.com/216/216593.gif" width="220"/>
-</p>
-
 ---
+
+<table>
+<tr>
+<td width="65%">
 
 ### 🧠 About Me
 
@@ -32,6 +32,16 @@
 
 > Aiming to become a Software Engineer with strong expertise in  
 > **AI, DevOps, UX/UI, and Full Stack Development**
+
+</td>
+
+<td width="35%" align="center">
+
+<img src="https://giffiles.alphacoders.com/216/216593.gif" width="100%" />
+
+</td>
+</tr>
+</table>
 
 ---
 
