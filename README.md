@@ -2,10 +2,10 @@
 
 <p align="center">
   💻 Systems Engineering student passionate about Software Engineering <br>
-  🚀 Front-End Developer building clean & eye-catching experiences
+  🚀 Front-End Developer crafting clean & eye-catching experiences
 </p>
 
-<img align="right" width="180" src="https://media4.giphy.com/media/v1.Y2lkPTZjMDliOTUybjR1a2Z0N2M5aTJhcW1oMTdrNnV6OXU5d25yd2s0dXJzNno0d3p5biZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/XEOUMqltCrGdCnatFF/giphy.gif" />
+<img align="right" width="200" src="https://giffiles.alphacoders.com/216/216593.gif"/>
 
 ---
 
@@ -21,8 +21,8 @@
 ### 🎯 Current Focus
 
 - Building **minimalist & visually impactful** front-end projects  
-- Applying theory into **real-world projects**  
-- Learning **accessibility & modern development practices**
+- Turning knowledge into **real-world applications**  
+- Focusing on **accessibility and modern development practices**
 
 ---
 
