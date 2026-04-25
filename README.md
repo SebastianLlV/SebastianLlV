@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://giffiles.alphacoders.com/377/37708.gif" width="90%" />
+  <img src="https://giffiles.alphacoders.com/377/37708.gif" width="80%" />
 </p>
 <h1 align="center">Hi, I'm Sebastián Llanos 👋</h1>
 
